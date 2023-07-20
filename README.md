@@ -1,4 +1,4 @@
-﻿[TOC]
+[TOC]
 
 ------------
 # Typer
@@ -50,6 +50,7 @@ C#：Winform 打字测速程序 Typer
         }
 ```
  - **随机打开**是打开项目文件里准备的10个txt文件，转换到RichTextBox上
+   
  ![随机打开](https://img-blog.csdnimg.cn/2020041815321822.png)
 
 ```csharp
