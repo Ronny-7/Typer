@@ -1,6 +1,3 @@
-[TOC]
-
-------------
 # Typer
 
 C#：Winform 打字测速程序 Typer
